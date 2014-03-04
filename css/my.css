@@ -1,0 +1,16 @@
+table {
+	width:90%;
+	border-top:1px solid #e5eff8;
+	border-right:1px solid #e5eff8;
+	margin:1em auto;
+	border-collapse:collapse;
+}
+tr.highlight {
+	background: #FF0000;
+}
+td {
+	border-bottom:1px solid #e5eff8;
+	border-left:1px solid #e5eff8;
+	padding:.3em 1em;
+	text-align:center;
+}
